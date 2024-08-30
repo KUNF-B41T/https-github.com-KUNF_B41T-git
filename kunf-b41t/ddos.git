@@ -1,0 +1,8 @@
+apt update
+apt install dnsutils
+apt install net-tools
+apt install tcpdump
+apt install dsniff 
+apt install grepcidr
+https://github.com/kunf-b41t/ddos.git
+cd kunf-b41t
